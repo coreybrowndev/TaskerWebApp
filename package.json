@@ -1,0 +1,19 @@
+{
+  "name": "taskerapplication",
+  "version": "1.0.0",
+  "description": "Task Management Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coreybrowndev/TaskerWebApp.git"
+  },
+  "author": "Corey B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coreybrowndev/TaskerWebApp/issues"
+  },
+  "homepage": "https://github.com/coreybrowndev/TaskerWebApp#readme"
+}
