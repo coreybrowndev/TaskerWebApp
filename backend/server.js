@@ -18,4 +18,6 @@ app.use("/api/users", require("./routes/userRoutes"));
 
 app.use(errorHandler);
 
-app.listen(5500, () => console.log(`Server started on port ${port}`));
+app.listen(5500, "localhost", () =>
+  console.log(`Server started on port ${port}`)
+);
